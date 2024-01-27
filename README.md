@@ -1,1 +1,2 @@
 # DiscordGoatMusic
+# Laravel-Discord-Template
