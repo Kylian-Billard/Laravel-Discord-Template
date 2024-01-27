@@ -15,3 +15,21 @@ PS: You may need to active some for Vocal usage.
 ```
 docker build -t your-name . 
 ```
+
+# How to start it ? 
+
+You will need to add your Discord Token in your .env or anything else like this :
+
+```
+DISCORD_TOKEN="your-token"
+```
+
+# Start Coding !
+
+## Start file (for example)
+
+"App/Console/Commands/StartDiscordBot"
+
+## Documentation for how to use Discord-php 
+
+https://github.com/discord-php/DiscordPHP
